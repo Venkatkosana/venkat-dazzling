@@ -1,0 +1,792 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.main a {
+    text-decoration: none;
+    color: white;
+}
+
+.a {
+    padding: 15px 0px;
+    background-color: #040C39;
+}
+
+.ll {
+    padding: 0px 5px;
+}
+
+.lll {
+    padding: 0px 10px;
+}
+
+.llll {
+    padding: 0px 10px;
+}
+
+.rt {
+    padding: 0px 10px;
+}
+
+.rtt {
+    padding: 0px 10px;
+}
+
+.mainn {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+}
+
+.b a {
+    text-decoration: none;
+    padding-left: 20px;
+
+}
+
+.b {
+    padding-top: 10px;
+}
+
+.c input[type=submit] {
+    background-color: orangered;
+    padding: 15px 28px;
+    border: 0;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.bg {
+    background-image: url(lappi.jpg);
+    height: 850px;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+}
+
+.e {
+    padding-top: 250px;
+    color: #fff;
+
+}
+
+.e p {
+    font-size: 20px;
+}
+
+.e h1 {
+    padding: 30px 0px;
+    font-size: 65px;
+}
+
+.f {
+    padding: 20px 40px;
+    background-color: #fff;
+    border: 0;
+    color: orange;
+
+}
+
+.f:hover {
+    color: #f96921;
+    border: 1px solid #f96921;
+    background-color: transparent;
+}
+
+.f i {
+    padding-left: 10px;
+}
+
+.innerdiv {
+    display: flex;
+    background-color: #f96921;
+    padding: 31px 40px;
+    position: relative;
+    margin-top: -120px;
+}
+
+.iv {
+    padding-left: 15px;
+    color: #fff;
+}
+
+.innerdiv i {
+    font-size: 30px;
+
+}
+
+.innerdiv2 {
+    background-color: #F5F5F5;
+    position: relative;
+    padding: 40px 55px;
+}
+
+.number {
+    text-align: right;
+    font-size: 90px;
+    font-weight: bold;
+    position: absolute;
+    top: 70px;
+    right: 10px;
+    color: #fff;
+
+}
+
+.innerdiv2 a {
+    text-decoration: none;
+}
+
+.rrr {
+    display: flex;
+}
+
+.vs {
+    margin: 0px 30px;
+}
+
+.e {
+    /* margin-left: 30px; */
+}
+
+.twok {
+    display: flex;
+    padding-top: 70px;
+
+}
+
+.over {
+    background-image: url(about-bg.jpg);
+    height: 900px;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.left p {
+    padding: 20px 0px;
+}
+
+.le {
+    display: flex;
+}
+
+.uu {
+    padding-left: 40px;
+    padding-bottom: 10px;
+
+}
+
+.uu p {
+    padding-top: 10px;
+}
+
+.us {
+    padding-top: 15px;
+}
+
+.lee {
+    display: flex;
+}
+
+.countrybg {
+    background-image: url(country-bg.jpg);
+    height: 700px;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+
+}
+
+.overlaybg {
+    background-color: #050d3c;
+    height: 700px;
+    width: 100%;
+    position: absolute;
+    opacity: 0.9;
+}
+
+.con {
+
+    padding: 20px 40px;
+    background-color: #fff;
+
+}
+
+.yy {
+    display: flex;
+
+
+}
+
+.kk {
+    padding-left: 20px;
+}
+
+.kk h4 {
+    cursor: pointer;
+}
+
+.kk a {
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.t {
+    text-align: center;
+    padding-top: 100px;
+    color: #fff;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 30px;
+    justify-content: center;
+    padding-top: 60px;
+}
+
+.visabg {
+    background-image: url(best-bg.jpg);
+    height: 730px;
+    width: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+}
+
+.q h1 {
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.sun {
+    display: flex;
+    justify-content: space-between;
+    padding: 70px 0px;
+}
+
+.app {
+    margin-left: 30px;
+}
+
+.app p {
+    padding: 30px 0px;
+}
+
+.fo {
+    padding: 20px 40px;
+    background-color: #121b51;
+    border: 0;
+    color: #fff;
+
+}
+
+.fo:hover {
+    color: #f96921;
+    border: 1px solid #121b51;
+    background-color: transparent;
+}
+
+
+.map {
+    padding: 50px 0px;
+}
+
+.col2 {
+    display: flex;
+}
+
+.col2 i {
+    font-size: 40px;
+    color: #f96921;
+}
+
+.col1 {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 50px;
+    color: #fff;
+    padding: 70px 140px;
+
+
+}
+
+.paren {
+    display: flex;
+}
+
+.servicebg {
+    background-image: url(service-bg.jpg);
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+
+    position: relative;
+}
+
+.overbg {
+    background-color: #121b51;
+    opacity: 0.8;
+    height: 500px;
+    width: 100%;
+    position: absolute;
+}
+
+.col6 {
+    padding: 157px 44px;
+    background-color: #f96921;
+}
+
+.col6 p {
+    padding: 20px 0px;
+}
+
+.c6 {
+    padding: 20px 40px;
+    background-color: #121b51;
+    border: 0;
+    color: #fff;
+
+}
+
+.c6:hover {
+    color: #fff;
+    border: 1px solid #121b51;
+    background-color: transparent;
+}
+
+
+.test {
+    background-image: url(testimonial-bg.jpg);
+    height: 700px;
+    width: 100%;
+    background-attachment: fixed;
+    position: relative;
+    background-size: cover;
+}
+
+.testt {
+    text-align: center;
+}
+
+.testt h1 {
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+
+.testt p {
+    padding: 40px 0px;
+    font-size: 20px;
+}
+
+.testt img {
+    border-radius: 50px;
+}
+
+.col7 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+.pi input[type=submit] {
+    padding: 15px 38px;
+    background-color: #f96921;
+    border: 0;
+}
+
+.col8 {
+    display: flex;
+    /* margin-left: 30px; */
+    padding-bottom: 90px;
+    justify-content: space-between;
+
+}
+
+.col8 h6 {
+    padding: 20px 0px;
+}
+
+.col8 p {
+    padding: 10px 0px;
+}
+
+
+.hello {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.king {
+    background-color: aqua;
+    padding: 10px 25px;
+
+}
+
+.king h5 {
+    cursor: pointer;
+}
+
+.king h6 {
+    color: #f96921;
+    cursor: pointer;
+}
+
+.eeeee {
+    width: 236px;
+    overflow: hidden;
+}
+
+.eeeee img {
+    height: 100%;
+    width: 100%;
+
+}
+
+
+.card-body h6 {
+    color: orange;
+}
+
+.card-body h6 {
+    cursor: pointer;
+}
+
+.card-body h4 {
+    cursor: pointer;
+}
+
+.bigmain {
+    display: flex;
+}
+
+.mbg {
+    background-image: url(type_01.jpg);
+    width: 50%;
+    height: 450px;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+}
+
+.color {
+    background-color: #121b51;
+    height: 450px;
+    width: 100%;
+    position: absolute;
+    opacity: 0.8;
+}
+
+.pp {
+    text-align: center;
+    color: #fff;
+}
+
+.pp img {
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+.pp p {
+    padding: 30px 0px;
+}
+
+.pp input[type=submit] {
+    padding: 15px 25px;
+    background-color: #f96921;
+    border: 0;
+}
+
+.mbgg {
+    background-image: url(type_02.jpg);
+    width: 50%;
+    height: 450px;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+
+}
+
+.color1 {
+    background-color: #000;
+    height: 450px;
+    width: 100%;
+    position: absolute;
+    opacity: 0.8;
+
+}
+
+.mh ul {
+    list-style: none;
+}
+
+.mh ul li {
+    display: inline;
+    margin-left: 50px;
+}
+
+.sbg {
+    padding: 55px 0px;
+    background-color: #fff;
+}
+
+.consultbg {
+    background-image: url(consult-bg.jpg);
+    width: 100%;
+    height: 750px;
+    background-attachment: fixed;
+    background-size: cover;
+    position: relative;
+
+}
+
+.colorbg {
+    background-color: rgba(246, 246, 246, 0.92);
+    ;
+    height: 750px;
+    width: 100%;
+    position: absolute;
+    opacity: 0.8;
+}
+
+.yking {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+
+.cut {
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cut input[type=text] {
+    padding: 10px 40px;
+}
+
+.nev {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.res {
+    padding: 10px 250px;
+
+}
+
+.rc {
+    padding-top: 30px;
+
+}
+
+.rc input[type=submit] {
+    padding: 10px 75px;
+    color: #fff;
+    background-color: #f96921;
+    border: 0;
+}
+
+.topv {
+    background-color: #fff;
+    padding: 100px 0px;
+    width: 100%;
+}
+
+.sss {
+    height: 70px;
+    background-color: #121b51;
+    display: flex;
+    color: #fff;
+    font-size: 26px;
+    padding-top: 10px;
+    padding-left: 77px;
+
+}
+
+.sss a {
+    text-decoration: none;
+}
+
+.footermain {
+    background-color: #050d3c;
+    width: 100%;
+    height: 450px;
+    padding: 80px 0px;
+}
+
+.mainrow {
+    display: flex;
+    color: #fff;
+
+}
+
+.subcol1 {
+    width: 25%;
+}
+
+.subcol1 img {
+    cursor: pointer;
+}
+
+.subcol1 p {
+    padding: 20px 0px;
+}
+
+.flex {
+    display: flex;
+
+}
+
+.flex i {
+    color: orange;
+    font-size: 20px;
+}
+
+.flex h6 {
+    padding-left: 20px;
+    padding-bottom: 25px;
+}
+
+.subcol2 {
+    width: 25%;
+}
+
+.subcol2 h3 {
+    padding-bottom: 20px;
+}
+
+.subflex {
+    display: flex;
+    cursor: pointer;
+}
+
+.subflex h6 {
+    padding-left: 10px;
+    padding-bottom: 15px;
+
+}
+
+.subcol3 {
+    width: 25%;
+}
+
+.subcol3 h3 {
+    padding-bottom: 20px;
+}
+
+.sflex {
+    display: flex;
+}
+
+.sflex img {
+    cursor: pointer;
+}
+
+.dsflex {
+    padding-left: 20px;
+    padding-bottom: 25px;
+}
+
+.dsflex p {
+    cursor: pointer;
+}
+
+.ssflex {
+    display: flex;
+}
+
+.ssflex h6 {
+    padding-left: 10px;
+}
+
+.subcol4 {
+    width: 25%;
+}
+
+.suflex {
+    display: flex;
+    padding-top: 60px;
+}
+
+.suflexx {
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.subcol4 p {
+    padding: 20px 0px;
+}
+
+.subcol4 input[type=text] {
+    background-color: #121b51;
+
+}
+
+.emo {
+    display: flex;
+}
+
+.emos {
+    border: 0;
+    background-color: #f96921;
+}
+
+.lastone {
+    height: 70px;
+    background-color: #000E2f;
+}
+
+.fs {
+    display: flex;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.fs1 {
+    padding-right: 20px;
+}
+
+.fs2 {
+    padding-right: 20px;
+}
+
+.fs3 {
+    padding-right: 40px;
+}
+
+.fs5 {
+    padding: 0px 10px;
+}
+
+.sf {
+    cursor: pointer;
+}
+
+.final {
+    display: flex;
+    color: #fff;
+    justify-content: space-between;
+    padding-top: 20px;
+}
